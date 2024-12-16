@@ -1,0 +1,66 @@
+{
+  "title": "Training Mission",
+  "id": "training-mission",
+  "system": "indominantpiet",
+  "joinTheme": "default",
+  "coreVersion": "12.331",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "systemVersion": "2.0.1",
+  "lastPlayed": "Sun Dec 15 2024 15:30:58 GMT-0800 (Pacific Standard Time)",
+  "playtime": 84077,
+  "description": "<p>Hero's on a mandated team building training mission with their new ship are called to investigate a distress signal. Why is it never as simple as just providing a tow home when Hero's are involved.</p>",
+  "background": "systems/indominantpiet/assets/Indominant_Foundry_Image.png",
+  "packs": [
+    {
+      "label": "Actors",
+      "type": "Actor",
+      "name": "actors",
+      "path": "packs/actors",
+      "system": "indominantpiet",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Scenes",
+      "type": "Scene",
+      "name": "scenes",
+      "path": "packs/scenes",
+      "system": "indominantpiet",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Editor Notes",
+      "type": "JournalEntry",
+      "name": "editor-notes",
+      "path": "packs/editor-notes",
+      "system": "indominantpiet",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Distress Signal",
+      "type": "Adventure",
+      "name": "distress-signal",
+      "path": "packs/distress-signal",
+      "system": "indominantpiet",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
