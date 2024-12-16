@@ -8,6 +8,8 @@
     "minimum": "12",
     "verified": "12"
   },
+  "manifest": "https://raw.githubusercontent.com/WildManPiet/training-mission/main/world.json",
+  "download": "https://raw.githubusercontent.com/WildManPiet/training-mission/main/training-mission.zip",
   "systemVersion": "2.0.1",
   "lastPlayed": "Sun Dec 15 2024 15:30:58 GMT-0800 (Pacific Standard Time)",
   "playtime": 84077,
